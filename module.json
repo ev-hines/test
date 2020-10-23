@@ -1,3 +1,4 @@
 {
-  "module_name": "Resource Group"
+  "module_name": "Resource Group",
+  "required_vars": {}
 }
